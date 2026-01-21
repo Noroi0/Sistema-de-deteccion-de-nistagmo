@@ -19,7 +19,7 @@ La documentación completa se encuentra en la carpeta `docs/`.
 - Redes neuronales (CNN + LSTM)
 
 ## Autores
-- Jeremi Yahir Torres García
+- Jeremi Torres
 -
 -
 -
