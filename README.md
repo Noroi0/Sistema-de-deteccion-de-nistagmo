@@ -14,7 +14,10 @@ La documentación completa se encuentra en la carpeta `docs/`.
 ## Tecnologías
 - Python
 - OpenCV
-- MediaPipe
+- Tensorflow
+- Tkinter
+- SQL
+- HTML
 - FastAPI
 - Redes neuronales (CNN + LSTM)
 
