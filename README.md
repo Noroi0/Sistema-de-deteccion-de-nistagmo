@@ -14,6 +14,8 @@ La documentación completa se encuentra en la carpeta `docs/`.
 ## Tecnologías
 - Python
 - OpenCV
+- Scikit-learn
+- Pandas
 - Tensorflow
 - Tkinter
 - SQL
