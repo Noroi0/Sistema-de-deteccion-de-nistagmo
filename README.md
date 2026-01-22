@@ -25,7 +25,7 @@ La documentación completa se encuentra en la carpeta `docs/`.
 
 ## Autores
 - Jeremi Torres
--
+- Gabriel Aguilar
 -
 -
 IPN – ESCOM
